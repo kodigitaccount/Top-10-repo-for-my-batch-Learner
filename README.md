@@ -1,4 +1,4 @@
-# Top-10-repo-for-my-batch-Learner
+📚 Top 10 Free Resources to Learn LLMs, AI Agents & Machine Learning
 
 | #      | Resource Name                                  | Description                                                 | Link                                                 |
 | ------ | ---------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------- |
